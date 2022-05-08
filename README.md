@@ -17,11 +17,21 @@
   ##
   <br>
 <div align="center">
+  <a src="">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+   </a>
+  
+   <a src="https://www.instagram.com/pastor.py/">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+    </a>
+  
+    <a src="">
   <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white">
+     </a>
+  
+     <a src="">
   <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white">
+      </a>
+  
 </div>
  
- ![Snake animation](https://github.com/PastorGustavo/PastorGustavo/blob/output/github-contribution-grid-snake.svg)
-
